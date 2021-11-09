@@ -9,11 +9,12 @@
 * Hands-on experience with Artificial Vision Sytems, Fixed Robots, AMRs, Cobots, Logic Controllers and some other funny industrial toys
 
 ### and this is some of my personal life:
-* I love learning languages, I speak Spanish, English C1, German B2, Portuguese and some French B1
-* Travelling is another incredible hobby, around 16 countries until now and counting
-* Daily exercise to release stress (Going go the Gym normally, but football, running and swimming are more in my top)
-* Proudly and with great effort I ran the Berlin Marathon 2021 (42.1km in 4:15min)
-* Like reading before the day finishes, main topics: Personal Development, Investment and Classics 
+* I love learning languages as this is a way to know more cultures and make friends, I speak Spanish, English C1, German B2, Portuguese and some French B1
+* Travelling is another incredible hobby I have, around 16 countries until now and counting 
+* Almost daily exercise and meditation to release stress (Going go the Gym normally, but football, running and swimming are more in my top)
+* Proudly and with great effort I ran the Berlin Marathon 2021 (42.2km in 4:15min)
+* Like reading to close my day, main topics: Personal Development, Investment and Classics 
+* And for sure in the weekends I try to meet with friends and visit new interesting places in the city
 
 You can find me on  [![LinkedIn][3.2]][3] or <kevin.meda94@gmail.com>
 
