@@ -1,4 +1,4 @@
-## Hello, Humans! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Kevin and this is some about me:
+## Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Kevin and this is some about me:
 
 * I'm a M.Sc. Student in Data Analytics in the RWTH Aachen University in Germany
 * Come from Mexico City but currently living in Germany
