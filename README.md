@@ -12,7 +12,7 @@
 * I love learning languages, I speak Spanish, English C1, German B2, Portuguese and some French B1
 * Travelling is another incredible hobby, around 16 countries until now and counting
 * Daily exercise to release stress (Going go the Gym normally, but football, running and swimming are more in my top)
-* I ran the Berlin Marathon 2021 (42.1km)
+* Proudly and with great effort I ran the Berlin Marathon 2021 (42.1km) in 4:15min
 * Like reading before the day finishes, main topics: Personal Development, Investment and Classics 
 
 You can find me on  [![LinkedIn][3.2]][3] or <kevin.meda94@gmail.com>
