@@ -8,7 +8,7 @@
 * Worked for 5 years in the Automation Industry as a Field Application Engineer
 * Hands-on experience with Artificial Vision Sytems, Fixed Robots, AMRs, Cobots, Controllers and some other funny industrial toys
 
-You can find me on [![LinkedIn][3.2]][3].
+You can find me on [![LinkedIn][3.2]][3] linkedin.com/in/kevinmeda/
 
  ![Tux, the Linux mascot](/assets/images/tux.png)
 
