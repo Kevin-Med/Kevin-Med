@@ -8,7 +8,17 @@
 * Worked for 5 years in the Automation Industry as a Field Application Engineer
 * Hands-on experience with Artificial Vision Sytems, Fixed Robots, AMRs, Cobots, Controllers and some other funny industrial toys
 
-You can find me on [![LinkedIn][3.2]][3]
+You can find me on  [![LinkedIn][3.2]][3] or <kevin.meda94@gmail.com>
+
+#### Right now I'm into Machine Learning and Deep Learning,
+#### therefore my Repos will be focused in different Supervised, Unsupervised and Neural Networks Projects
+##### My main Tech skills are
+* Python
+* Libraries such as Pandas, Numpy, Scikit-Learn, TensorFlow, Matplotlib, Seaborn
+* Pyspark
+* Hadoop Cluster
+* Tableau 
+* Programming in SQL/MySQL
 
 <!-- Icons -->
 
