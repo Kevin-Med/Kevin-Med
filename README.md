@@ -24,7 +24,7 @@ You can find me on  [![LinkedIn][3.2]][3] or <kevin.meda94@gmail.com>
 * Pyspark
 * Hadoop Cluster
 * Tableau 
-* Programming in SQL/MySQL
+* SQL/MySQL
 * Git
 
 <!-- Icons -->
