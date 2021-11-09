@@ -1,4 +1,4 @@
-## Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Kevin and this is some about me:
+## Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Kevin and this is some of my academic/professional life:
 
 * I'm a M.Sc. Student in Data Analytics in the RWTH Aachen University in Germany
 * Come from Mexico City but currently living in Germany
@@ -7,6 +7,13 @@
 * Studied abroad in Brazil in the Universidade de Sao Paulo - USP 
 * Worked for almost 5 years in the Automation Industry as a Field Application Engineer
 * Hands-on experience with Artificial Vision Sytems, Fixed Robots, AMRs, Cobots, Logic Controllers and some other funny industrial toys
+
+### and this is some of my personal life:
+* I love learning languages, I speark, Spanish, English C1, German B2, Portuguese C1 and a bit of French B1
+* Travelling is another incredible hobby, around 16 countries until now and counting
+* Daily exercise to release stress (Going go the Gym normally, but football, running and swimming are more in my top)
+* I ran the Berlin Marathon 2021 (42.1km)
+* Like reading before the day finishes, main topics: Personal Development, Investment and Classics 
 
 You can find me on  [![LinkedIn][3.2]][3] or <kevin.meda94@gmail.com>
 
