@@ -9,7 +9,7 @@
 * Hands-on experience with Artificial Vision Sytems, Fixed Robots, AMRs, Cobots, Logic Controllers and some other funny industrial toys
 
 ### and this is some of my personal life:
-* I love learning languages, I speak Spanish, English C1, German B2, Portuguese C1 and a bit of French B1
+* I love learning languages, I speak Spanish, English C1, German B2, Portuguese and a bit of French B1
 * Travelling is another incredible hobby, around 16 countries until now and counting
 * Daily exercise to release stress (Going go the Gym normally, but football, running and swimming are more in my top)
 * I ran the Berlin Marathon 2021 (42.1km)
