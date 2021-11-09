@@ -10,8 +10,7 @@
 
 You can find me on  [![LinkedIn][3.2]][3] or <kevin.meda94@gmail.com>
 
-#### Right now I'm into Machine Learning and Deep Learning,
-#### therefore my Repos will be focused in different Supervised, Unsupervised and Neural Networks Projects
+#### Right now I'm into Machine Learning and Deep Learning, therefore my Repos will be focused in different Supervised, Unsupervised Learning and Neural Networks Projects
 ##### My main Tech skills are
 * Python
 * Libraries such as Pandas, Numpy, Scikit-Learn, TensorFlow, Matplotlib, Seaborn
