@@ -1,11 +1,12 @@
 ## Hello, Humans! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Kevin and this is some about me:
+
 ### * I'm a M.Sc. student in Data Analytics in the RWTH Aachen University in Germany
 ### * come from Mexico City but currently living in Germany
-### * studied B. Eng. in Industrial Robotics in the Instituto Politécnico Nacional - IPN in Mexico
+### * studied B. Eng. in Industrial Robotics in Mexico in the Instituto Politécnico Nacional - IPN
 ### * Informatics Technician from the Instituto Politécnico Nacional - IPN
 ### * Studied abroad in Brazil in the Universidade de Sao Paulo - USP 
 ### * Worked for 5 years in the Automation Industry as a Field Application Engineer
-### * Some years of experience with Artificial Vision Sytems, Fixed Robots, AMRs, Cobots, Controllers and some other funny industrial toys
+### * Hands-on experience with Artificial Vision Sytems, Fixed Robots, AMRs, Cobots, Controllers and some other funny industrial toys
 
 
 <!--
