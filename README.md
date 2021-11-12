@@ -4,7 +4,7 @@
 * Come from Mexico City but currently living in Germany
 * Studied B.Eng. in Industrial Robotics in Mexico in the Instituto Politécnico Nacional - IPN
 * I'm also Informatics Technician from the Instituto Politécnico Nacional - IPN
-* Studied abroad in Brazil in the Universidade de Sao Paulo - USP 
+* Studied abroad in Brazil in the Universidade de São Paulo Paulo - USP 
 * Worked for almost 5 years in the Automation Industry as a Field Application Engineer
 * Hands-on experience with Artificial Vision Sytems, Fixed Robots, AMRs, Cobots, Logic Controllers and some other funny industrial toys
 
