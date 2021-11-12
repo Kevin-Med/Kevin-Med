@@ -1,7 +1,7 @@
-## Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Kevin and this is some of my academic/professional life:
+## Hello! 😄 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Kevin and this is some of my academic/professional life:
 
 * __I'm a M.Sc. Student in Data Analytics in the RWTH Aachen University in Germany__
-* Come from Mexico City but currently living in Germany
+* Come from Mexico City but currently living in Germany 🇲🇽 🇩🇪 
 * Studied B.Eng. in Industrial Robotics in Mexico in the Instituto Politécnico Nacional - IPN
 * I'm also Informatics Technician from the Instituto Politécnico Nacional - IPN
 * Studied abroad in Brazil in the Universidade de São Paulo Paulo - USP 
