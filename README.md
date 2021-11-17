@@ -26,7 +26,7 @@ You can find me on  [![LinkedIn][3.2]][3] or <kevin.meda94@gmail.com>
 * Hadoop Cluster 
 * Tableau 
 * SQL/MySQL 
-* Git - 
+* Git
 
 <!-- Icons -->
 
