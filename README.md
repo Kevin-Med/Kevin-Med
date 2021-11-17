@@ -22,7 +22,7 @@ You can find me on  [![LinkedIn][3.2]][3] or <kevin.meda94@gmail.com>
 ##### My main Tech skills are
 * Python
 * Libraries such as Pandas, Numpy, Scikit-Learn, TensorFlow, Matplotlib, Seaborn 
-* Pyspark 
+* Spark - Pyspark
 * Hadoop Cluster 
 * Tableau 
 * SQL/MySQL 
