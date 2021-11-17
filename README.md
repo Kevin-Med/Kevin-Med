@@ -14,7 +14,7 @@
 * Almost daily exercise and meditation to release stress (Going go the Gym normally, but football, running and swimming are more in my top)
 * Proudly and with great effort I ran the Berlin Marathon 2021 (42.2km in 4:15min)
 * Like reading to close my day, main topics: Personal Development, Investment and Classics 
-* And for sure in the weekends I try to meet with friends and visit new interesting places in the city
+* And for sure in the weekends I try to meet with Family and Friends and visit new interesting places in the city
 
 You can find me on  [![LinkedIn][3.2]][3] or <kevin.meda94@gmail.com>
 
