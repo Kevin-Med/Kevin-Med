@@ -8,7 +8,7 @@
 * Worked for almost 5 years in the Automation Industry as a Field Application Engineer
 * Hands-on experience with Artificial Vision Sytems, Fixed Robots, AMRs, Cobots, Logic Controllers and some other funny industrial toys
 
-### and this is some of my personal life:
+### and this is some of my personal life :
 * I love learning languages as this is my way to know more cultures and make new friends, I speak Spanish, English C1, German B2, Portuguese C1 and some French B1
 * Travelling is another incredible hobby I have, around 16 countries until now and counting 
 * Almost daily exercise and meditation to release stress (Going go the Gym normally, but football, running and swimming are more in my top)
